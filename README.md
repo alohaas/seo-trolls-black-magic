@@ -9,3 +9,4 @@ https://github.com/hakimel/reveal.js/
 3. install grunt cli client
 4. install npm dependencies
 5. grunt serve
+6. visit localhost:8000 to view the presentation
